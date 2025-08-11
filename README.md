@@ -11,7 +11,5 @@ Boitumelo - Gig & Booking
 Alvaro - Genre & Timeslot
 Indiphile - Song & Payment 
 
-Languages used :
+Language used :
 Java
-SpringBoot
-Html&Css 
